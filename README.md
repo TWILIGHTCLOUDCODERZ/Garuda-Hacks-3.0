@@ -11,6 +11,8 @@ AI DR.BOT
 
 ## Tools Used
 
+![Architecture](https://user-images.githubusercontent.com/101945531/185791473-804e73d8-6476-45f2-82b0-7aecac337023.jpg)
+
 <li>**Twilio**</li>
 <li>**Microsoft Power Virtual Agent**</li>
 <li>**Microsoft Power Automate Flow**</li>
@@ -20,6 +22,8 @@ AI DR.BOT
 <li>**Github**</li>
 
 ## Test Our Live APP
+
+![download and test](https://user-images.githubusercontent.com/101945531/185791509-03f9e7e9-3490-40d5-8673-f3c3d6c13a3c.jpg)
 
 <li>**Andriod apk:-**</li>
  &emsp;&emsp;Android web view application. Download the application via website-[APK LINK](https://drive.google.com/drive/folders/1acOifR5lKVqVKDgayoFiYEjiiOSMytvl).
