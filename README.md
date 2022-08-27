@@ -1,4 +1,4 @@
-# Hack-the-6ix-2022
+# Garuda Hacks 3.0
 AI DR.BOT
 
 ## Inspiration
