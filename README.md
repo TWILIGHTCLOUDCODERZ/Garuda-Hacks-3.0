@@ -29,7 +29,7 @@ AI DR.BOT
  &emsp;&emsp;Android web view application. Download the application via website-[APK LINK](https://drive.google.com/drive/folders/1acOifR5lKVqVKDgayoFiYEjiiOSMytvl).
 
 <li>**Github:-**</li>
-&emsp;&emsp;The site has been hosted in Github which includes project repository-[WebviewLink](https://twilightcloudcoderz.github.io/Hack-the-6ix-2022/).
+&emsp;&emsp;The site has been hosted in Github which includes project repository-[WebviewLink](https://github.com/TWILIGHTCLOUDCODERZ/Garuda-Hacks-3.0.git).
 
 ## What it does
 
